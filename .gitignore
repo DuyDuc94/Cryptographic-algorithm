@@ -23,3 +23,6 @@
 hs_err_pid*
 replay_pid*
 /MD5_Hash/nbproject/private/
+/AES_Algorithm/nbproject/private/
+/AES_Algorithm/build/
+/AES_Algorithm/dist/
