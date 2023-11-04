@@ -1,1 +1,1 @@
-# Encryption-algorithm
+# Collection of Cryptographic-algorithm
